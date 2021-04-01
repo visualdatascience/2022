@@ -20,7 +20,7 @@
                 <h3 class="page-header">Menu</h3>
                 <ul class="nav menu">
                     <li><a class="page-link" href="{{ site.baseurl }}/">Home</a></li>
-                    {% for page in site.pages %} {% if page.title %} {% if page.title != "VDS 2020" %}
+                    {% for page in site.pages %} {% if page.title %} {% if page.title != "VDS 2021" %}
                     <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
                     {% endif %} {% endif %} {% endfor %}
                 </ul>
@@ -63,6 +63,7 @@
         <div class="well ">
             <h3 class="page-header">VDS Archive</h3>
             <div class="custom">
+                <a href="http://www.visualdatascience.org/2020/">VDS 2020</a> <br />
                 <a href="http://www.visualdatascience.org/2019/">VDS 2019</a> <br />
                 <a href="http://www.visualdatascience.org/2018/">VDS 2018</a> <br />                
                 <a href="http://www.visualdatascience.org/2017/">VDS 2017</a> <br />
