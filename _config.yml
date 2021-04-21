@@ -5,10 +5,10 @@ description: "Visualization in Data Science (VDS at ACM KDD 2021)"
 baseurl: "/2021"
 url: "http://www.visualdatascience.org/"
 conferenceshort: "VDS 2021"
-conferencedate: "TBD" #"Mon, Oct. 26, 2020"
+conferencedate: "August 14-18th, 2021" #"Mon, Oct. 26, 2020"
 
-deadline_submission: "TBD" # <s>Fri, July 17, 2020</s><br> Fri, July 24, 2020"
-deadline_notification: "TBD" #"<s>Fri, August 28, 2020</s><br> Fri, Sept. 4, 2020"
+deadline_submission: "May 20th, 2021" # <s>Fri, July 17, 2020</s><br> Fri, July 24, 2020"
+deadline_notification: "June 10th, 2021" #"<s>Fri, August 28, 2020</s><br> Fri, Sept. 4, 2020"
 event_date: "TBD" #"Mon, Oct. 26, 2020"
 
 # Build settings
