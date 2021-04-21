@@ -29,7 +29,13 @@ Submissions should be no more than 8 pages long excluding references — shorter
 
 ### Important Dates
 
-TBD
+Thur., May 20th, 2021, 5:00 pm PDT: Paper and Abstract Submission
+
+Thur., June 10th, 2021: Author Notification
+
+Fri, June. 18, 2021: Camera-ready Copy for Accepted Submissions
+
+August 14-18th, 2021: VDS Workshop 
 
 <!-- ~~Fri, July 17, 2020, 5:00 pm PDT: Paper and Abstract Submission~~
 
