@@ -29,3 +29,7 @@ Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us. --
 - [Adam Perer](http://perer.org/), Carnegie Mellon University
 
 - [Alexander Lex](http://alexander-lex.net/), University of Utah
+
+## Twitter
+
+- [@VisualDataSci](https://twitter.com/VisualDataSci)
