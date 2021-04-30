@@ -16,7 +16,7 @@ Submitting [a short or long paper to VDS](http://www.visualdatascience.org/2021/
 
 ## Contact & Registration
 
-Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or on Twitter at [@VisualDataSci](https://twitter.com/VisualDataSci).
+Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or follow us on Twitter at [@VisualDataSci](https://twitter.com/VisualDataSci).
 
 
 ## Chairs
