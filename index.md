@@ -24,7 +24,7 @@ Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or
 
 - [Liang Gou](https://scholar.google.com/citations?user=x3VK0fAAAAAJ&hl=en), Bosch Research
 
--[Junming Shao](https://dm.uestc.edu.cn/junming-shao/), University of Electronic Science and Technology of China
+- [Junming Shao](https://dm.uestc.edu.cn/junming-shao/), University of Electronic Science and Technology of China
 
 
 ## General Chairs
