@@ -18,14 +18,18 @@ Submitting [a short or long paper to VDS](http://www.visualdatascience.org/2021/
 
 Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or follow us on Twitter at [@VisualDataSci](https://twitter.com/VisualDataSci).
 
-
-## Chairs
-
-- [Claudia Plant](https://dm.cs.univie.ac.at/team/person/59835/), University of Vienna
+## Paper Chairs
 
 - [Alvitta Ottley](http://visualdata.wustl.edu), Washington University in St. Louis
 
 - [Liang Gou](https://scholar.google.com/citations?user=x3VK0fAAAAAJ&hl=en), Bosch Research
+
+-[Junming Shao](https://dm.uestc.edu.cn/junming-shao/), University of Electronic Science and Technology of China
+
+
+## General Chairs
+
+- [Claudia Plant](https://dm.cs.univie.ac.at/team/person/59835/), University of Vienna
 
 - [Torsten Möller](https://cs.univie.ac.at/Torsten.Möller), University of Vienna
 
