@@ -31,9 +31,7 @@ Submissions should be no more than 8 pages long excluding references for full pa
 
 ### Submission System
 
-To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions).
-
-After logging in go to  "submissions”, please do following selections: “VGTC” (Society) -> "VDS 2021" (Conference/Journal) -> "VDS 2021 Papers" (Track) for VDS 2021.
+To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to  "submissions”, please do following selections: “VGTC” (Society) -> "VDS 2021" (Conference/Journal) -> "VDS 2021 Papers" (Track) for VDS 2021.
 
 
 
