@@ -1,7 +1,7 @@
 # Site settings
-title: "Visualization in Data Science (VDS at ACM KDD 2021)"
+title: "Visualization in Data Science (VDS at ACM KDD and IEEE VIS)"
 email: "vds@ieeevis.org"
-description: "Visualization in Data Science (VDS at ACM KDD 2021)"
+description: "Visualization in Data Science (VDS at ACM KDD 2021 and IEEE VIS 2021)"
 baseurl: "/2021"
 url: "http://www.visualdatascience.org/"
 conferenceshort: "VDS 2021"
@@ -9,7 +9,8 @@ conferencedate: "August 14-18th, 2021" #"Mon, Oct. 26, 2020"
 
 deadline_submission: "May 20th, 2021" # <s>Fri, July 17, 2020</s><br> Fri, July 24, 2020"
 deadline_notification: "June 10th, 2021" #"<s>Fri, August 28, 2020</s><br> Fri, Sept. 4, 2020"
-event_date: "August 14-18th, 2021 (Online)" #"Mon, Oct. 26, 2020"
+event_date: "August 14-18th, 2021" #"Mon, Oct. 26, 2020"
+event2_date: "October 24-29th, 2021"
 
 # Build settings
 markdown: kramdown

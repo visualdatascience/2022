@@ -4,18 +4,23 @@ title: Committee
 permalink: /committee/
 ---
 
-### General Chairs
-
-**[Claudia Plant](https://dm.cs.univie.ac.at/team/person/59835/)**
-Claudia Plant is full professor, leader of the Data Mining research group and vice dean at the Faculty of Computer Science University of Vienna, Austria. We focus on new methods for exploratory data mining, e.g., clustering, anomaly detection, graph mining and matrix factorization. Many approaches relate unsupervised learning to data compression, i.e. the better the found patterns compress the data the more information we have learned. Other methods rely on finding statistically independent patterns or multiple non-redundant solutions, on ensemble learning or on nature-inspired concepts such as synchronization. Indexing techniques and methods for parallel hardware support exploring massive data.
+### Paper Chairs
 
 **[Alvitta Ottley](http://visualdata.wustl.edu)**
 
 Alvitta Ottley is an Assistant Professor in the Department of Computer Science & Engineering at Washington University in St. Louis. She also holds a courtesy appointment in the Department of Psychological and Brain Sciences. Her research uses interdisciplinary approaches to solve problems such as how best to display information for effective decision-making and how we can design human-in-the-loop visual analytics interfaces that are more attuned to the way people think.
 
+**[Junming Shao](https://dm.uestc.edu.cn/junming-shao/)**
+Junming Shao's research interests include data mining and machine learning, especially for clustering in high-dimensional data, graph mining and brain structural network analysis. He has received his Ph.D. degree with the highest honor (“Summa Cum Laude”) at the University of Munich, Germany. He became the Alexander von Humboldt Fellow in 2012. Currently, he is a professor of Computer Science at the University of Electronic Science and Technology of China. He not only published papers on top-level data mining conferences like KDD, ICDM, SDM, IEEE/TKDE, but also published data mining-related interdisciplinary work in leading journals including Brain, Neurobiology of Aging, and Water Research
+
 **[Liang Gou](https://scholar.google.com/citations?user=x3VK0fAAAAAJ&hl=en)**  
 
 Liang Gou is a Principal Research Scientist at Bosch Research. His research interests lie in the fields of visual analytics, deep learning and human-computer interaction. Prior to joining Bosch Research, Liang was a Principal Research Scientist at Visa Research and a Research Staff Member at IBM Almaden Research Center.
+
+### General Chairs
+
+**[Claudia Plant](https://dm.cs.univie.ac.at/team/person/59835/)**
+Claudia Plant is full professor, leader of the Data Mining research group and vice dean at the Faculty of Computer Science University of Vienna, Austria. We focus on new methods for exploratory data mining, e.g., clustering, anomaly detection, graph mining and matrix factorization. Many approaches relate unsupervised learning to data compression, i.e. the better the found patterns compress the data the more information we have learned. Other methods rely on finding statistically independent patterns or multiple non-redundant solutions, on ensemble learning or on nature-inspired concepts such as synchronization. Indexing techniques and methods for parallel hardware support exploring massive data.
 
 **[Torsten Möller](https://cs.univie.ac.at/Torsten.Möller)**  
  
