@@ -22,9 +22,13 @@ Paper submissions will be managed by the Program Chairs and sent to the Program 
 
 Submissions should be no more than 8 pages long excluding references — shorter papers are welcome — and formatted according to the [VGTC formatting guidelines](http://junctionpublishing.org/vgtc/Tasks/camera.html).
 
-<!-- To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions).  -->
 
-<!-- After logging in go to “new submissions” and select “Submit to Papers” for VDS 2020. -->
+### Submission System
+
+To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions).
+
+After logging in go to  "submissions”, please do following selections: “VGTC” (Society) -> "VDS 2021" (Conference/Journal) -> "VDS 2021 Papers" (Track) for VDS 2021.
+
 
 
 ### Important Dates
