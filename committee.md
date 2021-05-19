@@ -34,6 +34,16 @@ Adam Perer is an Assistant Research Professor at Carnegie Mellon University, whe
 
 Alex is an assistant professor of computer science at the Scientific Computing and Imaging Institute and the School of Computing at the University of Utah. He develops interactive data analysis methods for experts and scientists. His primary research interests are interactive data visualization and analysis especially applied to molecular biology and graph visualization.
 
+### Publicity Chairs
+
+**[Jen Rogers](https://vdl.sci.utah.edu/team/rogers/)**
+
+Jen is a PhD student based in the Scientific Computing and Imaging Institute at the University of Utah under the supervision of Alexander Lex and Miriah Meyer. Her research involves interactive visualization for biological data and transparency for design-oriented visualization research. 
+
+**[Guojun Lai](https://ufind.univie.ac.at/de/person.html?id=114538)**
+
+Guojun Lai is a PhD student at the Data Mining research group, University of Vienna, Austria. His research interests include visual analysis-based Data Mining, High Performance/Efficient Data Mining or Data Processing on Modern Hardware, Database and Big Data Management. He received the Master's Degree in Computer Science and Bachelor's Degree in Software Engineering in 2020 and 2019 respectively.
+
 ### Program Committee 
 
 TBA

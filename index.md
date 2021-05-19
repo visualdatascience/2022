@@ -36,3 +36,10 @@ Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or
 - [Adam Perer](http://perer.org/), Carnegie Mellon University
 
 - [Alexander Lex](http://alexander-lex.net/), University of Utah
+
+## Publicity Chairs
+
+- [Jen Rogers](https://vdl.sci.utah.edu/team/rogers/), University of Utah
+
+- [Guojun Lai](https://ufind.univie.ac.at/de/person.html?id=114538), University of Vienna
+
