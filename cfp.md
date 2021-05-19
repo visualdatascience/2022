@@ -37,11 +37,14 @@ To submit a paper please use the [Precision Conference System](https://new.preci
 
 ### Important Dates
 
-Thur., May 20th, 2021, 5:00 pm PDT: Paper and Abstract Submission
+~~Thur., May 20th, 2021, 5:00 pm PDT: Paper and Abstract Submission~~
+Thur., May 27th, 2021, 5:00 pm PDT: Paper and Abstract Submission
 
-Thur., June 10th, 2021: Author Notification
+~~Thur., June 10th, 2021: Author Notification~~
+Thur., June 17th, 2021: Author Notification
 
-Fri, June. 18, 2021: Camera-ready Copy for Accepted Submissions
+~~Fri, June. 18, 2021: Camera-ready Copy for Accepted Submissions~~
+Fri, June. 25, 2021: Camera-ready Copy for Accepted Submissions
 
 August 14-18th, 2021: VDS Workshop at ACM KDD
 
