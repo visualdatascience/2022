@@ -46,7 +46,21 @@ Guojun Lai is a PhD student at the Data Mining research group, University of Vie
 
 ### Program Committee 
 
-TBA
+- Alim, Usman (University of Calgary) 
+- Assent, Ira (Aarhus University)
+- Berger, Matthew (Vanderbilt University)
+- Du, Fan (Adobe Research)
+- He, Wenbin (Bosch Research)
+- Hohman, Fred (Apple)
+- Hubig, Nina (Clemson University)
+- Liu, Shusen (LLNL)
+- Nobre, Carolina (Harvard University)
+- Wang, Junpeng (Visa Research)
+- Wang, Yang (Facebook)
+- Wang, Yun (Microsoft Research Asia)
+- Xu, Panpan (Bosch Research)
+- Wu, Yanhong (Facebook)
+
 
 <!-- - Alim, Usman (University of Calgary) 
 - Nobre, Carolina (University of Utah)

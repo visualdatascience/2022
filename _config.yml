@@ -5,13 +5,15 @@ description: "Visualization in Data Science (VDS at ACM KDD 2021 and IEEE VIS 20
 baseurl: "/2021"
 url: "http://www.visualdatascience.org/"
 conferenceshort: "VDS 2021"
-conferencedate: "August 14-18th, 2021" #"Mon, Oct. 26, 2020"
+conferencedate: "August 14 (US West) / August 15 (Singapore), 2021" #"Mon, Oct. 26, 2020"
 
 deadline_submission:  "<s>Thur, May 20th, 2021</s><br> Thur, May 27th, 2021"
 deadline_notification: "<s>Thur, June 10th, 2021</s><br> Thur, June 17th, 2021"
-event_date: "August 14-18th, 2021" #"Mon, Oct. 26, 2020"
+event_date: "August 14, 5pm - 8pm (US West) / August 15, 8am - 12pm (Singapore), 2021" #"Mon, Oct. 26, 2020"
 event2_date: "October 24-29th, 2021"
 
+
+August 14, 5pm - 8pm (US West) / August 15, 8am - 12pm (Singapore), 2021: VDS Workshop at ACM KDD
 # Build settings
 markdown: kramdown
 

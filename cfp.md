@@ -46,6 +46,7 @@ Thur., June 17th, 2021: Author Notification
 ~~Fri, June. 18, 2021: Camera-ready Copy for Accepted Submissions~~
 Fri, June. 25, 2021: Camera-ready Copy for Accepted Submissions
 
-August 14-18th, 2021: VDS Workshop at ACM KDD
+August 14, 5pm - 8pm (US West) / August 15, 8am - 12pm (Singapore), 2021: VDS Workshop at ACM KDD
+
 
 October 24-29, 2021: VDS Symposium at IEEE VIS
