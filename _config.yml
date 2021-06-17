@@ -12,8 +12,6 @@ deadline_notification: "<s>Thur, June 10th, 2021</s><br> Thur, June 17th, 2021"
 event_date: "August 14, 5pm - 8pm (US West) / August 15, 8am - 12pm (Singapore), 2021" #"Mon, Oct. 26, 2020"
 event2_date: "October 24-29th, 2021"
 
-
-August 14, 5pm - 8pm (US West) / August 15, 8am - 12pm (Singapore), 2021: VDS Workshop at ACM KDD
 # Build settings
 markdown: kramdown
 
