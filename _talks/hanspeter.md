@@ -2,7 +2,7 @@
 key: hanspeter 
 speaker: Hanspeter Pfister
 website: https://vcg.seas.harvard.edu/people/hanspeter-pfister
-affiliation: MIT
+affiliation: Harvard University
 title: TBD
 time: 
 picture: pfister.jpg
