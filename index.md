@@ -1,6 +1,6 @@
 ---
 layout: home
-title: VDS 2021
+title: VDS 2022
 ---
 
 ## Overview
@@ -9,9 +9,9 @@ Transformations in many fields are enabled by rapid advances in our ability to a
 
 Data science is the practice of deriving insights from data, enabled by statistical modeling, computational methods, interactive visual analysis, and domain-driven problem solving. Data science draws from methodology developed in such fields as applied mathematics, statistics, machine learning, data mining, data management, visualization, and HCI. It drives discoveries in business, economy, biology, medicine, environmental science, the physical sciences, the humanities and social sciences, and beyond.
 
-Visualization is an integral part of data science, and essential to enable sophisticated analysis of data. After five highly successful events, the sixth Symposium on Visualization in Data Science (VDS) will be held at a new venue, [ACM KDD 2021](https://www.kdd.org/kdd2021/) as well as [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome). VDS at KDD and VIS will be *virtual* in 2021.  VDS will bring together domain scientists and methods researchers (including data mining, visualization, usability and HCI, data management, statistics, machine learning, and software engineering) to discuss common interests, talk about practical issues, and identify open research problems in visualization in data science.
+Visualization is an integral part of data science, and essential to enable sophisticated analysis of data. After five highly successful events, the sixth Symposium on Visualization in Data Science (VDS) will be held at a new venue, [ACM KDD 2022](https://www.kdd.org/kdd2022/) as well as [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome). VDS at KDD and VIS will be *hybrid* in 2022.  VDS will bring together domain scientists and methods researchers (including data mining, visualization, usability and HCI, data management, statistics, machine learning, and software engineering) to discuss common interests, talk about practical issues, and identify open research problems in visualization in data science.
 
-Submitting [a short or long paper to VDS](http://www.visualdatascience.org/2021/cfp/) will give authors to present at virtual VDS events at both [ACM KDD 2021](https://www.kdd.org/kdd2021/) and [IEEE VIS 2021](http://ieeevis.org/year/2021/welcome).  We hope this will help bring the communities of data mining and visualization more closely connected.
+Submitting [a short or long paper to VDS](http://www.visualdatascience.org/2022/cfp/) will give authors to present at virtual VDS events at both [ACM KDD 2022](https://www.kdd.org/kdd2022/) and [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome).  We hope this will help bring the communities of data mining and visualization more closely connected.
 
 
 ## Contact & Registration
