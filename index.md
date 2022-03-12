@@ -18,28 +18,26 @@ Submitting [a short or long paper to VDS](http://www.visualdatascience.org/2022/
 
 Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or follow us on Twitter at [@VisualDataSci](https://twitter.com/VisualDataSci).
 
-## Organizing Committee
-
-### Symposium Co-Chairs
+## Symposium Co-Chairs
 
 - [Liang Gou](https://scholar.google.com/citations?user=x3VK0fAAAAAJ&hl=en), Bosch Research → IEEE VIS liaison
 
 - [Claudia Plant](https://dm.cs.univie.ac.at/team/person/59835/), University of Vienna  → KDD liaison 
 
-### Vis Paper Chairs
+## Vis Paper Chairs
 - [Alvitta Ottley](http://visualdata.wustl.edu), Washington University, St. Louis
 
 - [Anamaria Crisan](https://amcrisan.github.io/), Tableau Research
 
-### KDD Paper Chairs
+## KDD Paper Chairs
 - [Junming Shao](https://dm.uestc.edu.cn/junming-shao/),  University of Electronic Science and Technology of China
 
 - [Nina Chritine Hubig](https://sites.google.com/view/dzrpt-lab/about),  Clemson University
 
-### Web/Tech Chair
+## Web/Tech Chair
 - [Jorge Ono](https://vgc.poly.edu/~jhenrique/), Bosch Research
 
-### Publicity Chair
+## Publicity Chair
 - [Jen Rogers](https://vdl.sci.utah.edu/team/rogers/), University of Utah 
 
 ## Steering Committee
@@ -48,32 +46,3 @@ Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or
 - [Torsten Möller](https://cs.univie.ac.at/Torsten.Möller), University of Vienna 
 
 - [Adam Perer](http://perer.org/), Carnegie Mellon University 
-
-<!--- 
-
-## Paper Chairs
-
-- [Alvitta Ottley](http://visualdata.wustl.edu), Washington University in St. Louis
-
-- [Liang Gou](https://scholar.google.com/citations?user=x3VK0fAAAAAJ&hl=en), Bosch Research
-
-- [Junming Shao](https://dm.uestc.edu.cn/junming-shao/), University of Electronic Science and Technology of China
-
-
-## General Chairs
-
-- [Claudia Plant](https://dm.cs.univie.ac.at/team/person/59835/), University of Vienna
-
-- [Torsten Möller](https://cs.univie.ac.at/Torsten.Möller), University of Vienna
-
-- [Adam Perer](http://perer.org/), Carnegie Mellon University
-
-- [Alexander Lex](http://alexander-lex.net/), University of Utah
-
-## Publicity Chairs
-
-- [Jen Rogers](https://vdl.sci.utah.edu/team/rogers/), University of Utah
-
-- [Guojun Lai](https://ufind.univie.ac.at/de/person.html?id=114538), University of Vienna
-
---->

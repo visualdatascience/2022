@@ -37,6 +37,22 @@ To submit a paper please use the [Precision Conference System](https://new.preci
 
 ### Important Dates
 
+#### VDS @ VIS Dates
+
+Thur., July 7, 2022, 5:00 pm PDT: Paper and Abstract Submission
+
+Thur., August 11, 2022, 5:00 pm PDT: Review Deadline
+
+Thur., August 25, 2022, 5:00 pm PDT: Author Notification
+
+Thur., September 8, 2022, 5:00 pm PDT: Camera-ready Copy for Accepted Submissions
+
+#### VDS @ KDD Dates
+
+TBD.
+
+
+<!---
 ~~Thur., May 20th, 2021, 5:00 pm PDT: Paper and Abstract Submission~~
 Thur., May 27th, 2021, 5:00 pm PDT: Paper and Abstract Submission
 
@@ -50,3 +66,4 @@ August 14, 5pm - 9pm (US West) / August 15, 8am - 12pm (Singapore), 2021: VDS Wo
 
 
 October 24-29, 2021: VDS Symposium at IEEE VIS
+--->

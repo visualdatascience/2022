@@ -12,6 +12,7 @@ Liang Gou is a Principal Research Scientist at Bosch Research. His research inte
 
 
 **[Claudia Plant](https://dm.cs.univie.ac.at/team/person/59835/)**
+
 Claudia Plant is full professor, leader of the Data Mining research group and vice dean at the Faculty of Computer Science University of Vienna, Austria. We focus on new methods for exploratory data mining, e.g., clustering, anomaly detection, graph mining and matrix factorization. Many approaches relate unsupervised learning to data compression, i.e. the better the found patterns compress the data the more information we have learned. Other methods rely on finding statistically independent patterns or multiple non-redundant solutions, on ensemble learning or on nature-inspired concepts such as synchronization. Indexing techniques and methods for parallel hardware support exploring massive data.
 
 ### Paper Chairs

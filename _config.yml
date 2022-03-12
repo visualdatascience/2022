@@ -5,12 +5,12 @@ description: "Visualization in Data Science (VDS at ACM KDD 2022 and IEEE VIS 20
 baseurl: "/2022"
 url: "http://www.visualdatascience.org/"
 conferenceshort: "VDS 2022"
-conferencedate: "Oct. 24 (VIS), Aug. 14 (KDD)2022  (US West) " 
+conferencedate: "TBD" 
 
-deadline_submission:  "<s>Thur, May 20th, 2022</s><br> <s>Thur, May 27th, 2022</s>"
-deadline_notification: "<s>Thur, June 10th, 2022</s><br> <s>Thur, June 17th, 2022</s>"
-event_date: "<s>August 14, 5pm - 9pm (US West) / August 15, 8am - 12pm (Singapore), 2022</s>" 
-event2_date: "Oct 24, 8am - 12am (US Central), 2022"
+deadline_submission:  "Thur July 7, 2022, 5:00 pm PDT"
+deadline_notification: "Thur, August 25, 2022, 5:00 pm PDT"
+event_date: "TBD" 
+event2_date: ""
 
 # Build settings
 markdown: kramdown
