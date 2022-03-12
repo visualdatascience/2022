@@ -18,6 +18,39 @@ Submitting [a short or long paper to VDS](http://www.visualdatascience.org/2022/
 
 Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or follow us on Twitter at [@VisualDataSci](https://twitter.com/VisualDataSci).
 
+## Organizing Committee
+
+### Symposium Co-Chairs
+
+- [Liang Gou](https://scholar.google.com/citations?user=x3VK0fAAAAAJ&hl=en), Bosch Research → IEEE VIS liaison
+
+- [Claudia Plant](https://dm.cs.univie.ac.at/team/person/59835/), University of Vienna  → KDD liaison 
+
+### Vis Paper Chairs
+- [Alvitta Ottley](http://visualdata.wustl.edu), Washington University, St. Louis
+
+- [Anamaria Crisan](https://amcrisan.github.io/), Tableau Research
+
+### KDD Paper Chairs
+- [Junming Shao](https://dm.uestc.edu.cn/junming-shao/),  University of Electronic Science and Technology of China
+
+- [Nina Chritine Hubig](https://sites.google.com/view/dzrpt-lab/about),  Clemson University
+
+### Web/Tech Chair
+- [Jorge Ono](https://vgc.poly.edu/~jhenrique/), Bosch Research
+
+### Publicity Chair
+- [Jen Rogers](https://vdl.sci.utah.edu/team/rogers/), University of Utah 
+
+## Steering Committee
+- [Alexander Lex](http://alexander-lex.net/), University of Utah
+
+- [Torsten Möller](https://cs.univie.ac.at/Torsten.Möller), University of Vienna 
+
+- [Adam Perer](http://perer.org/), Carnegie Mellon University 
+
+<!--- 
+
 ## Paper Chairs
 
 - [Alvitta Ottley](http://visualdata.wustl.edu), Washington University in St. Louis
@@ -43,3 +76,4 @@ Please use [vds@ieeevis.org](mailto:vds@ieeevis.org) to get in touch with us, or
 
 - [Guojun Lai](https://ufind.univie.ac.at/de/person.html?id=114538), University of Vienna
 
+--->

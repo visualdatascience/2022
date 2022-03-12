@@ -4,7 +4,7 @@ title: Call for Participation
 permalink: /cfp/
 ---
 
-We encourage you to submit original work that emphasizes the role, application, and impact of visualization in data science. Accepted submissions have the opportunity to present at VDS events at both [ACM KDD](https://www.kdd.org/kdd2021/) and [IEEE VIS](http://ieeevis.org/year/2021/welcome).  This event accepts full and short paper submissions for talks.
+We encourage you to submit original work that emphasizes the role, application, and impact of visualization in data science. Accepted submissions have the opportunity to present at VDS events at both [ACM KDD](https://www.kdd.org/kdd2022/) and [IEEE VIS](http://ieeevis.org/year/2022/welcome).  This event accepts full and short paper submissions for talks.
 
 ### Full Papers (up to 8 pages)
 
@@ -18,7 +18,7 @@ We also accept short papers, with similar themes as described in the Full Paper 
 
 ### Opportunity to Present at IEEE VIS
 
-In order to bring the communities of data mining and visualization more closely connected, accepted papers at the KDD workshop will be invited to participate at a (virtual) VDS event co-located with [IEEE VIS](http://ieeevis.org/year/2021/welcome) in October 2021.
+In order to bring the communities of data mining and visualization more closely connected, accepted papers at the KDD workshop will be invited to participate at a (virtual) VDS event co-located with [IEEE VIS](http://ieeevis.org/year/2021/welcome) in October 2022.
 
 ### Review Process (Double blind)
 
@@ -31,7 +31,7 @@ Submissions should be no more than 8 pages long excluding references for full pa
 
 ### Submission System
 
-To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to  "submissions”, please do following selections: “VGTC” (Society) -> "VDS 2021" (Conference/Journal) -> "VDS 2021 Papers" (Track) for VDS 2021.
+To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to  "submissions”, please do following selections: “VGTC” (Society) -> "VDS 2022" (Conference/Journal) -> "VDS 2022 Papers" (Track) for VDS 2022.
 
 
 
