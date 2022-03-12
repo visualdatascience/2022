@@ -37,7 +37,7 @@ Junming Shao's research interests include data mining and machine learning, espe
 
 **[Jorge Piazentin Ono](https://vgc.poly.edu/~jhenrique/)** 
 
-Jorge Piazentin Ono is a Research Scientist at Bosch Research. His research lies at the intersection of Visual Analytics, Explainable Machine Learning and Human-Computer Interfaces, with a focus on interactive systems for data and model analysis. He holds a Ph.D. degree from New York University and a MS.c from University of Sao Paulo.
+Jorge Piazentin Ono is a Research Scientist at Bosch Research. His research lies at the intersection of Visual Analytics, Explainable Machine Learning and Human-Computer Interfaces, with a focus on interactive systems for data and model analysis. He holds a Ph.D. degree from New York University.
 
 ### Publicity Chairs
 
