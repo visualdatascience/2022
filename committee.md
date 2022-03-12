@@ -28,6 +28,7 @@ Alvitta Ottley is an Assistant Professor in the Department of Computer Science &
 #### KDD Paper Chairs
 
 **[Junming Shao](https://dm.uestc.edu.cn/junming-shao/)**
+
 Junming Shao's research interests include data mining and machine learning, especially for clustering in high-dimensional data, graph mining and brain structural network analysis. He has received his Ph.D. degree with the highest honor (“Summa Cum Laude”) at the University of Munich, Germany. He became the Alexander von Humboldt Fellow in 2012. Currently, he is a professor of Computer Science at the University of Electronic Science and Technology of China. He not only published papers on top-level data mining conferences like KDD, ICDM, SDM, IEEE/TKDE, but also published data mining-related interdisciplinary work in leading journals including Brain, Neurobiology of Aging, and Water Research.
 
 **[Nina Chritine Hubig](https://sites.google.com/view/dzrpt-lab/about)**
