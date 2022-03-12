@@ -10,7 +10,7 @@ conferencedate: "TBD"
 deadline_submission:  "Thur July 7, 2022, 5:00 pm PDT"
 deadline_notification: "Thur, August 25, 2022, 5:00 pm PDT"
 event_date: "TBD" 
-event2_date: ""
+event2_date: "TBD"
 
 # Build settings
 markdown: kramdown
