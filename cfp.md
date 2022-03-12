@@ -18,7 +18,7 @@ We also accept short papers, with similar themes as described in the Full Paper 
 
 ### Opportunity to Present at IEEE VIS
 
-In order to bring the communities of data mining and visualization more closely connected, accepted papers at the KDD workshop will be invited to participate at a (virtual) VDS event co-located with [IEEE VIS](http://ieeevis.org/year/2021/welcome) in October 2022.
+In order to bring the communities of data mining and visualization more closely connected, accepted papers at the KDD workshop will be invited to participate at a (hybrid) VDS event co-located with [IEEE VIS](http://ieeevis.org/year/2021/welcome) in October 2022.
 
 ### Review Process (Double blind)
 
