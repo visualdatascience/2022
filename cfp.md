@@ -16,10 +16,6 @@ Papers that integrate visualization with any stages of the data science pipeline
 
 We also accept short papers, with similar themes as described in the Full Paper track above.  However, we will not recommend extended versions of the short papers to IEEE TVCG due to their shorter length.
 
-### Opportunity to Present at IEEE VIS
-
-In order to bring the communities of data mining and visualization more closely connected, accepted papers at the KDD workshop will be invited to participate at a (hybrid) VDS event co-located with [IEEE VIS](http://ieeevis.org/year/2021/welcome) in October 2022.
-
 ### Review Process (Double blind)
 
 Paper submissions will be managed by the Program Chairs and sent to the Program Committee to evaluate the work’s novelty and significance.  Your work reviewed via a double-blind process; to do this, simply be sure to exclude all identifying information in the submitted manuscript file, ensuring that the reviewers will not know the identity of the authors. Otherwise, the review process will be single-blind, i.e., the reviewers will know the identity of the authors, but the authors will not know the identity of the reviewers.
@@ -34,22 +30,22 @@ Submissions should be no more than 8 pages long excluding references for full pa
 To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to  "submissions”, please do following selections: “VGTC” (Society) -> "VDS 2022" (Conference/Journal) -> "VDS 2022 Papers" (Track) for VDS 2022.
 
 
-
 ### Important Dates
+
+Thur., May 26th, 2022, 5:00 pm PDT: Paper and Abstract Submission 
+
+Mon., June 20th, 2022: Author Notification
+
+Mon, June. 27, 2022: Camera-ready Copy for Accepted Submissions
+
 
 #### VDS @ VIS Dates
 
-Thur., July 7, 2022, 5:00 pm PDT: Paper and Abstract Submission
-
-Thur., August 11, 2022, 5:00 pm PDT: Review Deadline
-
-Thur., August 25, 2022, 5:00 pm PDT: Author Notification
-
-Thur., September 8, 2022, 5:00 pm PDT: Camera-ready Copy for Accepted Submissions
+TBD.
 
 #### VDS @ KDD Dates
 
-TBD.
+August 14 (tentative), 2022: VDS Workshop at ACM KDD
 
 
 <!---
@@ -67,3 +63,9 @@ August 14, 5pm - 9pm (US West) / August 15, 8am - 12pm (Singapore), 2021: VDS Wo
 
 October 24-29, 2021: VDS Symposium at IEEE VIS
 --->
+
+
+
+<!---### Opportunity to Present at IEEE VIS
+
+In order to bring the communities of data mining and visualization more closely connected, accepted papers at the KDD workshop will be invited to participate at a (hybrid) VDS event co-located with [IEEE VIS](http://ieeevis.org/year/2022/welcome) in October 2022. --->
