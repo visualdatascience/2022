@@ -11,7 +11,7 @@ Data science is the practice of deriving insights from data, enabled by statisti
 
 Visualization is an integral part of data science, and essential to enable sophisticated analysis of data. After seventh highly successful events, the eighth Symposium on Visualization in Data Science (VDS) will be held at a new venue, [ACM KDD 2022](https://www.kdd.org/kdd2022/) as well as [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome). VDS at KDD and VIS will be *hybrid* (both virtual and in-person) in 2022. VDS will bring together domain scientists and methods researchers (including data mining, visualization, usability and HCI, data management, statistics, machine learning, and software engineering) to discuss common interests, talk about practical issues, and identify open research problems in visualization in data science.
 
-Submitting [a short or long paper to VDS](http://www.visualdatascience.org/2022/cfp/) will give authors to present at hybrid VDS events (both virtual and in-person) at both [ACM KDD 2022](https://www.kdd.org/kdd2022/) and [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome).  We hope this will help bring the communities of data mining and visualization more closely connected.
+Submitting [a short or long paper to VDS](http://www.visualdatascience.org/2022/cfp/) will give authors a chance to present at hybrid VDS events (both virtual and in-person) at both [ACM KDD 2022](https://www.kdd.org/kdd2022/) and [IEEE VIS 2022](http://ieeevis.org/year/2022/welcome).  We hope this will help bring the communities of data mining and visualization more closely connected.
 
 
 ## Contact & Registration
