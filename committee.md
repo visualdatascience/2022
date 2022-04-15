@@ -25,6 +25,9 @@ Alvitta Ottley is an Assistant Professor in the Department of Computer Science &
 
 **[Anamaria Crisan](https://amcrisan.github.io/)**
 
+Dr. Anamaria Crisan is a Lead Research Scientist at Tableau.  She conducts interdisciplinary research that integrates techniques and methods from machine learning, human computer interaction, and data visualization. Her research focuses on the intersection of Data Science and Data Visualization, especially toward the way humans can collaboratively work together with ML/AI systems through visual interfaces.
+
+
 #### KDD Paper Chairs
 
 **[Junming Shao](https://dm.uestc.edu.cn/junming-shao/)**
