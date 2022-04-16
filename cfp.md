@@ -27,7 +27,15 @@ Submissions should be no more than 8 pages long excluding references for full pa
 
 ### Submission System
 
-To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to  "submissions”, please do following selections: “VGTC” (Society) -> "VDS 2022" (Conference/Journal) -> "VDS 2022 Papers" (Track) for VDS 2022.
+#### VDS @ ACM KDD
+
+To submit a paper to VDS@KDD, please use the [EasyChair System](https://easychair.org/account/signin?l=Qg61iBR778rApKQcuWacUW). After creating an account and logging in, click on "make a new submission".
+
+#### VDS @ IEEE VIS
+
+TBD.
+
+<!---To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to  "submissions”, please do following selections: “VGTC” (Society) -> "VDS 2022" (Conference/Journal) -> "VDS 2022 Papers" (Track) for VDS 2022.--->
 
 
 ### Important Dates
