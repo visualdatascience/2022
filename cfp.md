@@ -27,11 +27,11 @@ Submissions should be no more than 8 pages long excluding references for full pa
 
 ### Submission System
 
-#### VDS @ ACM KDD
+#### VDS @ KDD
 
 To submit a paper to VDS@KDD, please use the [EasyChair System](https://easychair.org/account/signin?l=Qg61iBR778rApKQcuWacUW). After creating an account and logging in, click on "make a new submission".
 
-#### VDS @ IEEE VIS
+#### VDS @ VIS
 
 TBD.
 
