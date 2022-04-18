@@ -36,6 +36,8 @@ Junming Shao's research interests include data mining and machine learning, espe
 
 **[Nina Chritine Hubig](https://sites.google.com/view/dzrpt-lab/about)**
 
+Nina Hubig is an Assistant Professor in the School of Computing at Clemson University in Charleston in the Biomedical Data Science Program. She also holds an adjunct appointment in the Department of Neuroscience in the Medical University of South Carolina. Her research focuses on explainability and fairness in artificial intelligence which often includes finding important visualizations and causal relationships in correlated data.
+
 ### Web/Tech Chair
 
 **[Jorge Piazentin Ono](https://vgc.poly.edu/~jhenrique/)** 
