@@ -29,7 +29,7 @@ Submissions should be no more than 8 pages long excluding references for full pa
 
 #### VDS @ KDD
 
-To submit a paper to VDS@KDD, please use the [EasyChair System](https://easychair.org/account/signin). After creating an account , click the submission link: https://easychair.org/my/conference?conf=vdskdd2022 for paper submission.
+To submit a paper to VDS@KDD, please use the [EasyChair System](https://easychair.org/account/signin). After creating an account , click the submission link: [https://easychair.org/my/conference?conf=vdskdd2022](https://easychair.org/my/conference?conf=vdskdd2022) for paper submission.
 
 #### VDS @ VIS
 
