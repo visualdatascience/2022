@@ -4,11 +4,11 @@ title: Call for Participation
 permalink: /cfp/
 ---
 
-We encourage you to submit original work that emphasizes the role, application, and impact of visualization in data science. Accepted submissions have the opportunity to present at VDS events at both [ACM KDD](https://www.kdd.org/kdd2022/) and [IEEE VIS](http://ieeevis.org/year/2022/welcome).  This event accepts full and short paper submissions for talks.
+We encourage you to submit original work that emphasizes the role, application, and impact of visualization in data science. Accepted submissions have the opportunity to present at VDS events at both [ACM KDD](https://www.kdd.org/kdd2022/) and [IEEE VIS](http://ieeevis.org/year/2022/welcome), and will be archived in the IEEE Xplore digital library (associated publishing fees may apply).  This event accepts full and short paper submissions for talks.
 
 ### Full Papers (up to 8 pages)
 
-Paper submissions should describe the role, application, and impact of visualization in data science. We would like to particularly encourage papers that cross disciplinary boundaries and show how visualization in data science can be a catalyst for discovery. Papers will be published on our website.  In addition, we plan to recommend extended versions of selected papers in a special issue of the journal, IEEE Transactions on Visualization and Computer Graphics (TVCG).
+Paper submissions should describe the role, application, and impact of visualization in data science. We would like to particularly encourage papers that cross disciplinary boundaries and show how visualization in data science can be a catalyst for discovery. Accepted papers will be archived in the IEEE Xplore digital library (associated publishing fees may apply).  In addition, we plan to recommend extended versions of selected papers in a special issue of the journal, IEEE Transactions on Visualization and Computer Graphics (TVCG).
 
 Papers that integrate visualization with any stages of the data science pipeline (collecting data, cleaning data, mining data, exploring data, and communicating data) would be welcome as submissions to VDS.
 
