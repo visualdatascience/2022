@@ -25,20 +25,14 @@ Paper submissions will be managed by the Program Chairs and sent to the Program 
 Submissions should be no more than 8 pages long excluding references for full papers -- and 4 pages for short papers.  Papers should follow the formatting guidelines for [IEEE VIS TVCG Journal submissions](https://tc.computer.org/vgtc/publications/journal).  Papers should include full-color figures throughout and we encourage authors to showcase their work with annotated, well described, large, and detailed graphics. We also encourage the placement of a teaser image at the top of the very first page to showcase your work visually.
 
 
-### Submission System
+### Submission Systems & Dates
 
-#### VDS @ KDD
+### VDS @ KDD
+#### VDS @ KDD Submission System
 
 To submit a paper to VDS@KDD, please use the [EasyChair System](https://easychair.org/account/signin). After creating an account, click the submission link: [https://easychair.org/my/conference?conf=vdskdd2022](https://easychair.org/my/conference?conf=vdskdd2022) for paper submission.
 
-#### VDS @ VIS
-
-TBD.
-
-<!---To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to  "submissions”, please do following selections: “VGTC” (Society) -> "VDS 2022" (Conference/Journal) -> "VDS 2022 Papers" (Track) for VDS 2022.--->
-
-
-### Important Dates
+#### VDS @ KDD Important Dates
 
 Thur., May 26th, 2022, 5:00 pm PDT: Paper and Abstract Submission 
 
@@ -46,14 +40,23 @@ Mon., June 20th, 2022: Author Notification
 
 Mon, June. 27, 2022: Camera-ready Copy for Accepted Submissions
 
-
-#### VDS @ VIS Dates
-
-TBD.
-
-#### VDS @ KDD Dates
-
 August 14 (tentative), 2022: VDS Workshop at ACM KDD
+
+### VDS @ VIS
+#### VDS @ VIS Submission System
+
+To submit a paper please use the [Precision Conference System](https://new.precisionconference.com/submissions). After logging in go to  "submissions”, please do following selections: “VGTC” (Society) -> "VDS 2022" (Conference/Journal) -> "VDS 2022 Papers" (Track) for VDS 2022.
+
+#### VDS @ VIS Important Dates
+
+Thur., July 7th, 2022, 5:00 pm PDT: Paper and Abstract Submission 
+
+Thur., August 25th, 2022: Author Notification
+
+Thur, Sept. 8, 2022: Camera-ready Copy for Accepted Submissions
+
+Sun. Oct 16 (tentative), 2022: VDS Workshop at IEEE VIS
+
 
 
 <!---
