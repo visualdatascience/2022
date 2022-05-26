@@ -34,7 +34,7 @@ To submit a paper to VDS@KDD, please use the [EasyChair System](https://easychai
 
 #### VDS @ KDD Important Dates
 
-Thur., May 26th, 2022, 5:00 pm PDT: Paper and Abstract Submission 
+Thur., June 2nd, 2022, 5:00 pm PDT: Paper and Abstract Submission 
 
 Mon., June 20th, 2022: Author Notification
 
