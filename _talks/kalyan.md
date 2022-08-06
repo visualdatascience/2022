@@ -13,5 +13,4 @@ bio: |
 
  
 abstract: |
-    We believe data science and AI will change the world.  No matter how smart and powerful AI models we can build, the ultimate testimony of the success of data science and AI is users' trust.  How can we build trustworthy data science?  At the level of user-model interaction, how can we convince users that a data analytic result is trustworthy?  In this talk, I will brainstorm possible directions to the above questions in the context of an end-to-end data science pipeline.  To strengthen trustworthy interactions between models and users, I will advocate exact and consistent interpretation of machine learning models.  Our recent results show that exact and consistent interpretations are not just theoretically feasible, but also practical even for API-based AI services.  Through reflection I will discuss some challenges and opportunities in building trustworthy data science for possible future work.
----
+    TBD
