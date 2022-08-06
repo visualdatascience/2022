@@ -5,7 +5,7 @@ website: https://www.zcliu.org/
 affiliation: University of Maryland College Park
 title: Towards Scalable and Interpretable Visual Analytics
 time: 1:10pm - 2:10pm
-picture: leo.jpg
+picture: leo.png
 picture-note: Leo Zhicheng Liu
 slides: 
 bio: |
