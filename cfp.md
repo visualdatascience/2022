@@ -40,7 +40,7 @@ Mon., June 20th, 2022: Author Notification
 
 Mon, June. 27, 2022: Camera-ready Copy for Accepted Submissions
 
-August 14 (tentative), 2022: VDS Workshop at ACM KDD
+August 14, 2022: VDS Workshop at ACM KDD
 
 ### VDS @ VIS
 #### VDS @ VIS Submission System
