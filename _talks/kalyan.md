@@ -1,7 +1,7 @@
 --- 
 key: kalyan
 speaker: Kalyan Veeramachaneni
-website: https://sites.google.com/view/jpei/jian-peis-homepage
+website: https://idss.mit.edu/staff/kalyan-veeramachaneni/
 affiliation: Massachusetts Institute of Technology
 title: Towards Usable Machine Learning
 time: 1:10pm - 2:10pm
