@@ -13,5 +13,5 @@ bio: |
 abstract: |
     TBD.<br>
 
-    Recording: <a href="https://univienna.zoom.us/rec/share/3qPrI3g7Lo8ndCGMoKD9w28F5Fd98grdhjYPZzceYVSUo_QH3016ddZXhqTprwun.Va5TpOvKlVHyf6WB">link</a>. Password: 9DR=w2D*
+    <b>Recording</b>: <a href="https://univienna.zoom.us/rec/share/3qPrI3g7Lo8ndCGMoKD9w28F5Fd98grdhjYPZzceYVSUo_QH3016ddZXhqTprwun.Va5TpOvKlVHyf6WB">link</a>. Password: 9DR=w2D*
 ---
