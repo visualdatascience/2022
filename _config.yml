@@ -11,7 +11,7 @@ deadline_submission:  "Thur., <s>May 26th</s> June 2nd, 2022, 5:00 pm PDT"
 deadline_notification: "Mon., <s>June 20th</s>, 2022, 5:00 pm PDT"
 deadline_submission_vis:  "Thur., <s>July 7th</s> July 14th, 2022, 5:00 pm PDT"
 deadline_notification_vis: "Thur., <s>August 25th</s>, 2022, 5:00 pm PDT"
-event_date: "August 14" 
+event_date: "<s>August 14</s>" 
 event2_date: "October 16"
 
 # Build settings
