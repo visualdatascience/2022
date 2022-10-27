@@ -7,7 +7,7 @@
     {% if talk.link == null or talk.link == "" %}
     <div class="ttitle">{{talk.title}}</div>
     {% else %}
-    <div class="ttitle"><a href="{{ site.baseurl }}/files/{{talk.link}}">{{talk.title}}</a></div>
+    <div class="ttitle"><a href="{{talk.link}}">{{talk.title}}</a></div>
     {% endif %}
     <div><span class="tspeaker">{{talk.authors}}</span></div>
     <div class="tabstract"><b>Abstract:</b> {{talk.abstract}}</div>
